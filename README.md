@@ -1,5 +1,3 @@
-# awesome-ref
-
 # Deep Learning
 
 - [Understanding Deep Learning - USP (2021)](https://understandingdl.netlify.app/program/)
@@ -23,6 +21,25 @@
 - [Learning from Data - Caltech (2012)](http://work.caltech.edu/telecourse.html)
 - [Applied Machine Learning - Cornell (2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
+# Evolutionary Computing
+
+## Books
+
+- [Introduction to Evolutionary Algorithms (2010)](https://www.springer.com/gp/book/9781849961288)
+- [Handbook of Metaheuristics (2010)](https://link.springer.com/book/10.1007/978-1-4419-1665-5)
+- [Introduction to Evolutionary Computing (2015)](https://link.springer.com/book/10.1007/978-3-662-44874-8)
+- [Metaheuristics (2016)](https://www.springer.com/gp/book/9783319454016)
+
+## Papers
+
+- [Fairness in Bio-inspired Optimization Research: A Prescription of Methodological Guidelines for Comparing Meta-heuristics (2020)](https://arxiv.org/abs/2004.09969)
+
+# Fairness & Interpretability
+
+## Papers
+
+- [Fairness On The Ground: Applying Algorithmic Fairness: Approaches To Production Systems (2021)](https://arxiv.org/abs/2103.06172)
+
 # Math
 
 ## Courses
@@ -31,6 +48,11 @@
 - [Mathematics for Machine Learning - Multivariate Calculus - Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 - [Mathematics of Machine Learning Summer School - U Washington / MSR (2019)](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 - [Statistics 101 - Harvard (2018)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+## Books
+
+- [Mathematics for Machine Learning (2020)](https://mml-book.github.io/)
+- [A Mathematics Course for Political and Social Research (2019)](http://people.duke.edu/~das76/moosiebook.html)
 
 ## Readings
 
@@ -47,6 +69,7 @@
 ## Papers
 
 - [A Survey of Data Augmentation Approaches for NLP (2021)](https://arxiv.org/abs/2105.03075)
+- [word2vec Parameter Learning Explained (2016)](https://arxiv.org/abs/1411.2738)
 
 ## Tools
 
