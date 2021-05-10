@@ -1,8 +1,14 @@
 ## Deep Learning
 
+### Courses
+
 - [Understanding Deep Learning - USP (2021)](https://understandingdl.netlify.app/program/)
 - [Deep Learning - NYU (2020)](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Introduction to Deep Learning - MIT (2021)](http://introtodeeplearning.com/)
+
+### Tools
+
+- [Deep Speed](https://www.deepspeed.ai/)
 
 ## Information
 
@@ -70,9 +76,11 @@
 
 - [A Survey of Data Augmentation Approaches for NLP (2021)](https://arxiv.org/abs/2105.03075)
 - [word2vec Parameter Learning Explained (2016)](https://arxiv.org/abs/1411.2738)
+- [Do Transformer Modifications Transfer Across Implementations and Applications? (2021)](https://arxiv.org/abs/2102.11972)
 
 ### Tools
 
+- [Doccano](https://github.com/doccano/doccano)
 - [LIT - The Language interpretability Tool](https://pair-code.github.io/lit/)
 
 ## Optimization
@@ -97,3 +105,7 @@
 ### Courses
 
 - [Program Analysis - CMU (2021)](https://cmu-program-analysis.github.io/2021/index.html)
+
+### Readings
+
+- [Empirical Standards for Software Engineering Research](https://arxiv.org/abs/2010.03525)
