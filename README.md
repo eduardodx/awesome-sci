@@ -14,14 +14,22 @@
 
 # Machine Learning
 
+## Books
+
+- [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost)
+
 ## Courses
 
 - [Learning from Data - Caltech (2012)](http://work.caltech.edu/telecourse.html)
+- [Applied Machine Learning - Cornell (2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 # Math
 
 ## Courses
 
+- [Mathematics for Machine Learning - Linear Algebra - Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- [Mathematics for Machine Learning - Multivariate Calculus - Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+- [Mathematics of Machine Learning Summer School - U Washington / MSR (2019)](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 - [Statistics 101 - Harvard (2018)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 
 ## Readings
