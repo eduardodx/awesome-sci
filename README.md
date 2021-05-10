@@ -2,15 +2,15 @@
 
 # Deep Learning
 
-- [Understanding Deep Learning - USP](https://understandingdl.netlify.app/program/)
-- [Deep Learning - NYU](https://atcold.github.io/pytorch-Deep-Learning/)
-- [Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
+- [Understanding Deep Learning - USP (2021)](https://understandingdl.netlify.app/program/)
+- [Deep Learning - NYU (2021)](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Introduction to Deep Learning - MIT (2021)](http://introtodeeplearning.com/)
 
 # Information
 
 ## Books
 
-- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
+- [Foundations of Information - U Washington](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
 
 # Machine Learning
 
