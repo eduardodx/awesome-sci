@@ -93,7 +93,7 @@
 
 ### Courses
 
-- [Research Culture and Community Norms - Berkeley](https://inst.eecs.berkeley.edu/~cs298-7/fa20/lectures/)
+- [Research Culture and Community Norms - Berkeley (2021)](https://inst.eecs.berkeley.edu/~cs298-7/fa20/lectures/)
 - [Empirical Methods - CMU (2021)](https://github.com/bvasiles/empirical-methods)
 
 ### Papers
