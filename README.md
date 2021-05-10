@@ -96,9 +96,14 @@
 - [Research Culture and Community Norms - Berkeley](https://inst.eecs.berkeley.edu/~cs298-7/fa20/lectures/)
 - [Empirical Methods - CMU (2021)](https://github.com/bvasiles/empirical-methods)
 
+### Papers
+
+- [Effectiveness of Anonymization in Double-Blind Review (2017)](https://arxiv.org/abs/1709.01609)
+
 ### Readings
 
 - [Readings on Research II - CMU (2018)](https://docs.google.com/document/d/1L610weeNT_KDe6gPgjHjuN4rBSnsI0NfwE2RZCLuKgE/edit)
+- [Bridging the Gap: From Research to Practical Advice (2018)](https://www.cs.cmu.edu/~clegoues/docs/legoues-ieeesw2018.pdf)
 
 ## Software Engineering
 
