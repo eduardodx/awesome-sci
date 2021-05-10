@@ -26,6 +26,7 @@
 
 - [Learning from Data - Caltech (2012)](http://work.caltech.edu/telecourse.html)
 - [Applied Machine Learning - Cornell (2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+- [Inteligência Artificial para todos (2020)](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY)
 
 ## Metaheuristics & Evolutionary Computing
 
