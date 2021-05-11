@@ -84,6 +84,12 @@
 - [word2vec Parameter Learning Explained (2016)](https://arxiv.org/abs/1411.2738)
 - [Do Transformer Modifications Transfer Across Implementations and Applications? (2021)](https://arxiv.org/abs/2102.11972)
 
+### Readings
+
+- [The Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
 ### Tools
 
 - [Doccano](https://github.com/doccano/doccano)
