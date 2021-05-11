@@ -1,3 +1,15 @@
+## Table of Contents
+1. [Deep Learning](#deep-learning)
+2. [Information](#information)
+3. [Fairness & Interpretability](#fairness--interpretability)
+4. [Machine Learning](#machine-learning)
+5. [Metaheuristics & Evolutionary Computing](#metaheuristics--evolutionary-computing)
+6. [Math](#math)
+7. [Natural Language Processing](#nlp)
+8. [Optimization](#optimization)
+9. [Research & Science](#research--science)
+10. [Software Engineering](#software-engineering)
+
 ## Deep Learning
 
 ### Courses
