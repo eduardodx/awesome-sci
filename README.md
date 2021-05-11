@@ -6,6 +6,10 @@
 - [Deep Learning - NYU (2020)](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Introduction to Deep Learning - MIT (2021)](http://introtodeeplearning.com/)
 
+### Books
+
+- [The Modern Mathematics of Deep Learning (2021)](https://arxiv.org/abs/2105.04026)
+
 ### Tools
 
 - [Deep Speed](https://www.deepspeed.ai/)
@@ -15,6 +19,12 @@
 ### Books
 
 - [Foundations of Information - U Washington](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
+
+## Fairness & Interpretability
+
+### Papers
+
+- [Fairness On The Ground: Applying Algorithmic Fairness: Approaches To Production Systems (2021)](https://arxiv.org/abs/2103.06172)
 
 ## Machine Learning
 
@@ -40,12 +50,6 @@
 ### Papers
 
 - [Fairness in Bio-inspired Optimization Research: A Prescription of Methodological Guidelines for Comparing Meta-heuristics (2020)](https://arxiv.org/abs/2004.09969)
-
-## Fairness & Interpretability
-
-### Papers
-
-- [Fairness On The Ground: Applying Algorithmic Fairness: Approaches To Production Systems (2021)](https://arxiv.org/abs/2103.06172)
 
 ## Math
 
