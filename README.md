@@ -31,6 +31,7 @@
 ### Books
 
 - [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost)
+- [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
 
 ### Courses
 
