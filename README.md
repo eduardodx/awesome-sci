@@ -33,6 +33,10 @@
 - [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost)
 - [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
 
+### Papers
+
+- [Continual Learning in Practice (2019)](https://arxiv.org/abs/1903.05202)
+
 ### Courses
 
 - [Learning from Data - Caltech (2012)](http://work.caltech.edu/telecourse.html)
