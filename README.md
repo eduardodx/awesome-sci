@@ -121,6 +121,10 @@
 - [Readings on Research II - CMU (2018)](https://docs.google.com/document/d/1L610weeNT_KDe6gPgjHjuN4rBSnsI0NfwE2RZCLuKgE/edit)
 - [Bridging the Gap: From Research to Practical Advice (2018)](https://www.cs.cmu.edu/~clegoues/docs/legoues-ieeesw2018.pdf)
 
+### Tools
+
+- [Axiv Sanity](http://www.arxiv-sanity.com/)
+
 ## Software Engineering
 
 ### Courses
