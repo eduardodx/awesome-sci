@@ -5,6 +5,7 @@
 - [Understanding Deep Learning - USP (2021)](https://understandingdl.netlify.app/program/)
 - [Deep Learning - NYU (2020)](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Introduction to Deep Learning - MIT (2021)](http://introtodeeplearning.com/)
+- [Deep learning - Stanford (2018)](https://cs230.stanford.edu/lecture/)
 
 ### Books
 
