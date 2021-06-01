@@ -15,6 +15,10 @@
 
 - [Deep Speed](https://www.deepspeed.ai/)
 
+### Extra
+
+- [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples)
+
 ## Information
 
 ### Books
@@ -99,6 +103,8 @@
 
 - [Doccano](https://github.com/doccano/doccano)
 - [LIT - The Language interpretability Tool](https://pair-code.github.io/lit/)
+- [NLPretext](https://github.com/artefactory/NLPretext/tree/master)
+- [Texthero](https://texthero.org/)
 
 ## Optimization
 
